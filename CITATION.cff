@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the manuscript and this deposit."
+title: "Benchmarking single-pose docking, consensus rescoring, and supervised ML on the LIT-PCBA library"
+authors:
+  - family-names: Abo-Dahab
+    given-names: Youssef
+    # orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Xiang
+    given-names: Xiaoqiang
+  - family-names: Chun
+    given-names: Joanne
+  - family-names: Zhao
+    given-names: Liang
+version: "1.0.0"
+date-released: "2026-07-13"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX   # fill after Zenodo mints it
