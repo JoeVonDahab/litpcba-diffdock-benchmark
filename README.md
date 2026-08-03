@@ -18,6 +18,7 @@ data/
   multipose_experiment/  single- vs multi-pose rescoring results (GNINA + NMDN)
 docs/
   RECONCILIATION.md      cell-by-cell audit of Table II / Supp S2 (read this)
+  supplementary_s2_corrected.csv corrected per-target EF1% values reported in S2
   table2_reproduced.csv  clean per-target EF1/EF10/ROC-AUC/BEDROC matrix (from raw tables)
   targets.csv            per-target ligand/active counts + subsampling flag
 scripts/
