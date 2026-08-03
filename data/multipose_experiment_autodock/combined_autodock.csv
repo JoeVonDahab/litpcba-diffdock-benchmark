@@ -1,0 +1,7 @@
+target,rescorer,n,n_actives,single EF1%,best multi EF1%,delta EF1%,rule EF1%,actives in top 1%,single EF10%,best multi EF10%,delta EF10%,rule EF10%
+TP53,NMDN,3784,65,4.62,3.08,-1.54,maximum,3 → 2 of 38,2.62,3.08,0.46,maximum
+TP53,GNINA,3784,65,1.54,1.54,0.0,maximum / mean top 3,1 → 1 of 38,0.62,0.62,0.0,mean top 3
+ESR1_ant,NMDN,4595,90,6.67,5.56,-1.11,mean top 3,6 → 5 of 46,2.67,2.56,-0.11,maximum / mean top 3
+ESR1_ant,GNINA,4595,90,6.67,5.56,-1.11,maximum / mean top 3,6 → 5 of 46,2.89,3.56,0.67,mean top 3
+PPARG,NMDN,5093,24,16.67,20.83,4.16,maximum / mean top 3,4 → 5 of 51,2.08,3.75,1.67,maximum / mean top 3
+PPARG,GNINA,5093,24,4.17,8.33,4.16,mean top 3,1 → 2 of 51,4.58,5.0,0.42,maximum / mean top 3

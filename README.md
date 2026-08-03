@@ -16,6 +16,8 @@ data/
   consensus_tables/      <TARGET>__merged.csv.gz (global intersection, both pathways;
                          also the ML feature table) and <TARGET>__autodock_consensus.csv.gz
   multipose_experiment/  single- vs multi-pose rescoring results (GNINA + NMDN)
+  multipose_experiment_autodock/  AutoDock-pathway multi-pose control (all 10 docking runs per
+                         ligand rescored by GNINA + NMDN) + the scripts that produced it
 docs/
   RECONCILIATION.md      cell-by-cell audit of Table II / Supp S2 (read this)
   supplementary_s2_corrected.csv corrected per-target EF1% values reported in S2
